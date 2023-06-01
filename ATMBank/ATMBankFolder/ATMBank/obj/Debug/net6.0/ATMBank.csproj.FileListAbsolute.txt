@@ -1,0 +1,15 @@
+/home/adirroyal/Desktop/adir/ATMBankFolder/ATMBank/bin/Debug/net6.0/ATMBank
+/home/adirroyal/Desktop/adir/ATMBankFolder/ATMBank/bin/Debug/net6.0/ATMBank.deps.json
+/home/adirroyal/Desktop/adir/ATMBankFolder/ATMBank/bin/Debug/net6.0/ATMBank.runtimeconfig.json
+/home/adirroyal/Desktop/adir/ATMBankFolder/ATMBank/bin/Debug/net6.0/ATMBank.dll
+/home/adirroyal/Desktop/adir/ATMBankFolder/ATMBank/bin/Debug/net6.0/ATMBank.pdb
+/home/adirroyal/Desktop/adir/ATMBankFolder/ATMBank/obj/Debug/net6.0/ATMBank.csproj.AssemblyReference.cache
+/home/adirroyal/Desktop/adir/ATMBankFolder/ATMBank/obj/Debug/net6.0/ATMBank.GeneratedMSBuildEditorConfig.editorconfig
+/home/adirroyal/Desktop/adir/ATMBankFolder/ATMBank/obj/Debug/net6.0/ATMBank.AssemblyInfoInputs.cache
+/home/adirroyal/Desktop/adir/ATMBankFolder/ATMBank/obj/Debug/net6.0/ATMBank.AssemblyInfo.cs
+/home/adirroyal/Desktop/adir/ATMBankFolder/ATMBank/obj/Debug/net6.0/ATMBank.csproj.CoreCompileInputs.cache
+/home/adirroyal/Desktop/adir/ATMBankFolder/ATMBank/obj/Debug/net6.0/ATMBank.dll
+/home/adirroyal/Desktop/adir/ATMBankFolder/ATMBank/obj/Debug/net6.0/refint/ATMBank.dll
+/home/adirroyal/Desktop/adir/ATMBankFolder/ATMBank/obj/Debug/net6.0/ATMBank.pdb
+/home/adirroyal/Desktop/adir/ATMBankFolder/ATMBank/obj/Debug/net6.0/ATMBank.genruntimeconfig.cache
+/home/adirroyal/Desktop/adir/ATMBankFolder/ATMBank/obj/Debug/net6.0/ref/ATMBank.dll
